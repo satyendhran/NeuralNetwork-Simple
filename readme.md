@@ -909,7 +909,7 @@ Contributions are welcome and encouraged. To contribute:
 
 MIT License
 
-Copyright (c) 2024 Neural Network Framework Contributors
+Copyright (c) 2024 Satyendhran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
